@@ -6,8 +6,15 @@ Analisar os sinistros de trânsito registrados no Estado de São Paulo durante o
 # Justificativa do uso dos dados
 A utilização desses dados é importante porque permite identificar os tipos de sinistros mais frequentes e compreender as regiões com maior concentração de ocorrências. Para isso, serão utilizados dados abertos do Estado de São Paulo, analisando informações como municípios, tipos de sinistros e quantidade de vítimas. O Python será utilizado para a exploração e o tratamento dos dados, enquanto o Looker Studio permitirá apresentar os resultados por meio de visualizações e dashboards.
 
-# Dados Usados
-- https://dadosabertos.sp.gov.br/dataset/sinistros-infosiga
+# Dados Utilizados
+
+- Fonte: Portal de Dados Abertos do Estado de São Paulo.
+- Link: https://dadosabertos.sp.gov.br/dataset/sinistros-infosiga
+
+# Arquivos
+- sinistros_08-2026.csv
+- sinistros_tratados.csv
+- veiculos.csv
 
 # Ferramentas Usadas
 - Python
