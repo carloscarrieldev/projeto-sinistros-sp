@@ -4,10 +4,7 @@
 Analisar os sinistros de trânsito registrados no Estado de São Paulo durante o mês de agosto de 2026, identificando a quantidade de ocorrências e sua distribuição entre as diferentes regiões.
 
 # Justificativa do uso dos dados
-Pretendo utilizar os dados abertos de São Paulo para fazer uma análise detalhada dos sinistros na cidade. 
-Vou examinar colunas como município, tipos, dados, gravidade e veículos. A análise no Python e a 
-visualização no Looker ajudam a compreender melhor os dados, identificar padrões e elaborar ideias 
-para soluções.
+A utilização desses dados é importante porque permite identificar os tipos de sinistros mais frequentes e compreender as regiões com maior concentração de ocorrências. Para isso, serão utilizados dados abertos do Estado de São Paulo, analisando informações como municípios, tipos de sinistros e quantidade de vítimas. O Python será utilizado para a exploração e o tratamento dos dados, enquanto o Looker Studio permitirá apresentar os resultados por meio de visualizações e dashboards.
 
 # Dados Usados
 - https://dadosabertos.sp.gov.br/dataset/sinistros-infosiga
