@@ -1,7 +1,7 @@
 ### Projeto Semantix
 
 # Objetivo 
-Analisar as causas e acontecimentos no trânsito do mês de agosto de 2026 
+Analisar os sinistros e acontecimentos no trânsito do mês de agosto de 2026 
 tendo como objetivo trazer padrões e soluções durante os períodos.
 
 # Justificativa do uso dos dados
@@ -12,8 +12,6 @@ para soluções.
 
 # Dados Usados
 - https://dadosabertos.sp.gov.br/dataset/sinistros-infosiga
-- Observação > Quando iniciei o projeto, não consegui baixar o arquivo e tive que procurar 
-um arquivo específico para concluir.
 
 # Ferramentas Usadas
 - Python
