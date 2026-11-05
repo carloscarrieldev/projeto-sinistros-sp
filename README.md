@@ -27,12 +27,12 @@ A utilização desses dados é importante porque permite identificar os tipos de
 - Limpeza dos Dados.
 - Análise dos registros.
 - Criação dos arquivos em CSV.
-- Dashboard interativo é explicativo no Looker Studio.
+- Criação de dashboard interativo e explicativo no Looker Studio.
 
 # Conclusões
 1. Período do mês: A análise dos sinistros de trânsito de agosto de 2026 identificou variações na quantidade de ocorrências ao longo do mês, com aumento no final do período. 
-2. Distribuição regional: A Baixada Santista, campinas e Região Metropolitana de São Paulo, apresentaram as maiores participações individuais no gráfico, com 9,2% cada.
-3. Vítimas e veículos: Foram contabilizadas 20.042 vítimas no período dos sinistros analisado.
+2. Distribuição regional: A Baixada Santista, Campinas e Região Metropolitana de São Paulo apresentaram as maiores participações individuais no gráfico, com 9,2% cada.
+3. Vítimas e veículos: Foram contabilizadas 20.042 vítimas no período analisado.
 4. Tipos de sinistros: As colisões apareceram como uma das ocorrências mais frequentes na análise.
 
 # Dashboard
