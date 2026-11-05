@@ -1,8 +1,7 @@
 ### Projeto Semantix
 
 # Objetivo 
-Analisar os sinistros e acontecimentos no trânsito do mês de agosto de 2026 
-tendo como objetivo trazer padrões e soluções durante os períodos.
+Analisar os sinistros de trânsito registrados no Estado de São Paulo durante o mês de agosto de 2026, identificando a quantidade de ocorrências e sua distribuição entre as diferentes regiões.
 
 # Justificativa do uso dos dados
 Pretendo utilizar os dados abertos de São Paulo para fazer uma análise detalhada dos sinistros na cidade. 
