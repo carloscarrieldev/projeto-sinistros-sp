@@ -1,4 +1,4 @@
-### Projeto Semantix
+### Projeto Semantix - EBAC
 
 # Objetivo 
 Analisar os sinistros de trânsito registrados no Estado de São Paulo durante o mês de agosto de 2026, identificando a quantidade de ocorrências e sua distribuição entre as diferentes regiões.
@@ -30,11 +30,10 @@ A utilização desses dados é importante porque permite identificar os tipos de
 - Dashboard interativo é explicativo no Looker Studio.
 
 # Conclusões
-- A análise dos sinistros de trânsito de agosto de 2026 identificou variações na quantidade de ocorrências ao longo do mês, com aumento no final do período. 
-- O município de São Paulo concentrou o maior número de registros e de vítimas contabilizadas.
-- As colisões é sinistros mais frequente, com destaque para as regiões Metropolitana de São Paulo, Campinas e Baixada Santista.
+1. Período do mês: A análise dos sinistros de trânsito de agosto de 2026 identificou variações na quantidade de ocorrências ao longo do mês, com aumento no final do período. 
+2. Distribuição regional: A Baixada Santista, campinas e Região Metropolitana de São Paulo, apresentaram as maiores participações individuais no gráfico, com 9,2% cada.
+3. Vítimas e veículos: Foram contabilizadas 20.042 vítimas no período dos sinistros analisado.
+4. Tipos de sinistros: As colisões apareceram como uma das ocorrências mais frequentes na análise.
 
-Os resultados ajudam a compreender a distribuição dos sinistros no período analisado e podem contribuir para ações futuras com conscientização e segurança no trânsito.
-
-## Dashboard
-Link do Looker Studio: https://datastudio.google.com/reporting/2bd349ac-a2bb-4338-9c4e-577a7eb8ec77
+# Dashboard
+Looker Studio: https://datastudio.google.com/reporting/2bd349ac-a2bb-4338-9c4e-577a7eb8ec77
