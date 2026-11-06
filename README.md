@@ -36,4 +36,4 @@ A utilização desses dados é importante porque permite identificar os tipos de
 4. Tipos de sinistros: As colisões apareceram como uma das ocorrências mais frequentes na análise.
 
 # Dashboard
-Looker Studio: https://datastudio.google.com/reporting/2bd349ac-a2bb-4338-9c4e-577a7eb8ec77
+Looker Studio: https://datastudio.google.com/reporting/001c0893-100c-459c-96f5-ac235175abb6
