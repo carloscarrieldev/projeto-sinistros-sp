@@ -16,7 +16,7 @@ A utilização desses dados é importante porque permite identificar os tipos de
 - sinistros_tratados.csv
 - veiculos.csv
 
-# Ferramentas Usadas
+# Ferramentas Utilizadas
 - Python
 - Pandas
 - Looker Studio
